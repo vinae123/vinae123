@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center">I'm a Data Scientist and AI Enthusiast with a passion for leveraging data to drive impactful decisions and solutions. Currently, I'm working on various AI and data science projects, including developing chatbots and enhancing machine learning models.</h3>
+<h3 align="center">I'm a Data Scientist and AI Enthusiast with a passion for leveraging data to drive impactful decisions and solutions. Currently, I'm working as an Software Engineer intern with OpenTurff Technologies and also on various AI and data science projects, including developing chatbots and enhancing machine learning models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinae123&label=Profile%20views&color=0e75b6&style=flat" alt="vinae123" /> </p>
 
